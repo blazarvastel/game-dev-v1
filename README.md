@@ -13,4 +13,4 @@ load("drinfeld_trank.sage")
 
 to load the script.
 
-One can also import the game_gen_drinfeld.py module and use the methods provided.
+One can also import the game_gen_skew.py module and use the methods provided.
